@@ -1,4 +1,5 @@
 # Javascript client-server React / GraphQL / Node / Express / MongoDB
+## Installation :
 ## Packages list :
 * nodemon
 * axios
@@ -8,6 +9,7 @@
     * react-router
 * webpack
     * webpack-dev-middleware 
+    * webpack-node-externals
 * babel-core
     * babel-loader
     * babel-preset-env
