@@ -1,0 +1,25 @@
+{
+  "name": "client-server",
+  "version": "1.0.0",
+  "description": "javascript client/server with reactJS/GraphQL/NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfroussel/client-server.git"
+  },
+  "keywords": [
+    "react",
+    "graphql",
+    "apollon",
+    "node"
+  ],
+  "author": "jeff roussel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfroussel/client-server/issues"
+  },
+  "homepage": "https://github.com/jfroussel/client-server#readme"
+}
